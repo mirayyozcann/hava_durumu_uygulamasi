@@ -19,7 +19,5 @@ Python ve Tkinter kullanılarak geliştirilmiş, anlık hava durumu verilerini �
 
 ## ⚙️ Kurulum ve Çalıştırma
 
-Projeyi bilgisayarınızda çalıştırmak için terminale şu komutları yazarak gerekli kütüphaneleri yükleyebilirsiniz:
-
 ```bash
 pip install requests matplotlib
