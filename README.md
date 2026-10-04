@@ -18,6 +18,5 @@ Python ve Tkinter kullanılarak geliştirilmiş, anlık hava durumu verilerini �
 - **SQLite** (Veri Yönetimi)
 
 ## ⚙️ Kurulum ve Çalıştırma
-
 ```bash
 pip install requests matplotlib
